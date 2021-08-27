@@ -1,0 +1,16 @@
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\HW-10.2.exe
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\HW-10.2.deps.json
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\HW-10.2.runtimeconfig.json
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\HW-10.2.runtimeconfig.dev.json
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\HW-10.2.dll
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\ref\HW-10.2.dll
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\bin\Debug\net5.0\HW-10.2.pdb
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.AssemblyInfoInputs.cache
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.AssemblyInfo.cs
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.csproj.CoreCompileInputs.cache
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.dll
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\ref\HW-10.2.dll
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.pdb
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.genruntimeconfig.cache
+C:\Users\s.zafarov\source\repos\HW-10.1\HW-10.2\obj\Debug\net5.0\HW-10.2.csproj.AssemblyReference.cache
